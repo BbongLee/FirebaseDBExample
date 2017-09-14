@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "262383499843-orvvvi1l88cjvm178iiqs3lsuhbuc78r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bepro.globe22.firebasedbexample",
+            "certificate_hash": "7a680f8eb54654a29e1efdaed03f8a127079d8a3"
+          }
+        },
+        {
           "client_id": "262383499843-pmhhb8coeuicud1ooau7pe19b1klqdn7.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262383499843-pmhhb8coeuicud1ooau7pe19b1klqdn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
