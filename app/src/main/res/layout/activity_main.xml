@@ -40,7 +40,9 @@
                 android:text="https://github.com/BbongLee"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:gravity="center" />
+                android:gravity="center"
+                android:onClick="onClick"
+                />
         </LinearLayout>
     </LinearLayout>
 </LinearLayout>
