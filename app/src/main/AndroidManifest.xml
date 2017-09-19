@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.bepro.globe22.firebasedbexample">
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission><!--인터넷 사용권한!!-->
 
     <application
         android:allowBackup="true"
